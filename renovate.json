@@ -1,0 +1,8 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "github>foreverworks/renovate-config"
+  ],
+  "description": "A fork: Renovate skips forks unless they opt in, and this one follows the shared preset like every other repo.",
+  "forkProcessing": "enabled"
+}
